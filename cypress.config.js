@@ -7,6 +7,7 @@ module.exports = defineConfig({
       hideCredentials: true,
       requestMode: true,
     },
+    experimentalRunAllSpecs: true,
   },
   fixturesFolder: false,
   video: false,
